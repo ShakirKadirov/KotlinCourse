@@ -1,0 +1,7 @@
+
+Официальное руководство по языку программирования Kotlin - https://kotlinlang.org/docs/reference/
+Руководство по языку Kotlin на русском языке - https://kotlinlang.ru/
+
+
+Бесплатные курсы на русском языке - https://youtube.com/playlist?list=PLxizNdMtXgxo0y4n-jK_YrQNrI4sPoDFo&si=38FGzGsCqsxOZ_7R
+Рекомендую так как в курсе автор рассмотрил ООП

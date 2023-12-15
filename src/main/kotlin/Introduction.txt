@@ -1,0 +1,8 @@
+
+Введение
+
+Что такое Kotlin?
+
+https://ru.wikipedia.org/wiki/Kotlin
+https://skillbox.ru/media/code/yazyk-programmirovaniya-kotlin/
+https://habr.com/ru/articles/277479/
